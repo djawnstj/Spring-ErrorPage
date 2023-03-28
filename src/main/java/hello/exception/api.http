@@ -1,0 +1,2 @@
+GET http://localhost:8080/api2/members/user-ex
+Accept: application/json
